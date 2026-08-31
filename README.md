@@ -97,16 +97,14 @@ I am a **Computer Science & Engineering student specializing in AI & Machine Lea
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir-111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-111&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samir-111&show_icons=true&theme=tokyonight&hide_border=true" alt="Samir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir-111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
