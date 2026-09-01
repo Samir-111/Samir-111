@@ -2,7 +2,7 @@
 
   # 👋 Hi, I'm Samir Khorgade
 
-  ### 🚀 Full-Stack MERN Developer | CSE (AI & ML) Student | GenAI Engineer
+  ### 🚀 Full-Stack MERN Developer | CSE (AI & ML) Student 
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
@@ -38,7 +38,7 @@ I am a **Computer Science & Engineering student specializing in AI & Machine Lea
 
 - 🎓 **Degree:** B.Tech in Computer Science & Engineering (AI & ML)
 - 🌐 **Primary Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
-- 🤖 **AI Specialization:** Generative AI, RAG Systems, LangChain, Vector DBs (Pinecone)
+- 🤖 **AI Specialization:** Generative AI, RAG Systems, LangChain
 - 🎯 **Focus Areas:** Scalable Web Apps, REST APIs, Data Structures & Algorithms (DSA)
 
 ---
@@ -81,7 +81,7 @@ I am a **Computer Science & Engineering student specializing in AI & Machine Lea
 - **Tech Stack:** `MERN Stack` (MongoDB, Express.js, React.js, Node.js)
 - **Description:** Automated campus entry/exit pass tracking system with student verification, late-mark logging, and admin dashboard.
 
-### 🤖 [Free PDF RAG Assistant](https://github.com/Samir-111/free-pdf-rag-assistant)
+### 🤖 [FlashRAG-PDF](https://github.com/Samir-111/free-pdf-rag-assistant)
 - **Tech Stack:** `Python` `LangChain` `RAG` `Pinecone` `Streamlit`
 - **Description:** Context-aware document Q&A assistant utilizing Retrieval-Augmented Generation to answer queries from multi-page PDFs.
 
