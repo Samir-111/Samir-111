@@ -5,7 +5,7 @@
 **Full-Stack Developer (MERN) | AI & ML Enthusiast**
 B.Tech in Computer Science & Engineering (AI & ML)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Samir-111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:samirkhorgade.02@gmail.com)
 
@@ -29,13 +29,13 @@ I'm a Computer Science student focused on **full-stack web development** and **A
 
 | Area                 | Technologies                                                 |
 | -------------------- | ------------------------------------------------------------ |
-| **Languages**        | JavaScript, TypeScript, Python, Java, C, SQL               |
+| **Languages**        | JavaScript, TypeScript, Python, Java, C, SQL                 |
 | **Frontend**         | React.js, Next.js, HTML5, CSS3, Tailwind CSS                 |
 | **Backend**          | Node.js, Express.js, REST APIs, JWT, Zod                     |
 | **AI & ML**          | Python, LangChain, RAG, PyTorch, Scikit-learn, Pandas, NumPy |
-| **Databases**        | Mongoose, MongoDB Atlas, MySQL                      |
+| **Databases**        | MongoDB, Mongoose, MongoDB Atlas, MySQL                      |
 | **Cloud & Services** | Cloudinary, Firebase                                         |
-| **Tools**            | Git, GitHub, Postman, VS Code                   |
+| **Tools**            | Git, GitHub, Postman, VS Code                                |
 
 ---
 
