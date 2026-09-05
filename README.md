@@ -2,7 +2,7 @@
 
 # Hi, I'm Samir Khorgade
 
-**Full-Stack Developer (MERN & Next.js) | AI & ML Enthusiast**  
+**Full-Stack Developer (MERN) | AI & ML Enthusiast**  
 B.Tech in Computer Science & Engineering (AI & ML)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
@@ -109,12 +109,13 @@ A complete **MERN** vehicle reservation platform with live inventory filters and
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Samir's GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Samir's GitHub Streak" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-111&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samir-111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
