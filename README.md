@@ -2,7 +2,7 @@
 
 # Hi, I'm Samir Khorgade
 
-**Full-Stack Developer & AI/ML Engineer**  
+**Full-Stack Developer (MERN & Next.js) | AI & ML Enthusiast**  
 B.Tech in Computer Science & Engineering (AI & ML)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
@@ -16,12 +16,12 @@ B.Tech in Computer Science & Engineering (AI & ML)
 
 ### 📌 About Me
 
-I build full-stack web applications and work with applied machine learning / LLM systems. My core focus is developing reliable web software using **TypeScript, Next.js, and Node.js**, alongside building **RAG pipelines and data-driven tools in Python**.
+I am a Full-Stack Web Developer specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and modern **Next.js & TypeScript** ecosystems. Alongside web engineering, I build practical **Generative AI & RAG pipelines** in Python.
 
-- 🔭 **Current Focus:** Building full-stack web applications with modern backend architectures.
-- 🛠️ **Tech Core:** Next.js, React, Node.js, Express, MongoDB, Python, LangChain.
-- 📚 **Strengthening:** Core Java, Object-Oriented Design, and Data Structures & Algorithms.
-- 🎯 **Goal:** Writing maintainable code, understanding systems from the ground up, and contributing to meaningful open-source software.
+- 🛠️ **Primary Stack:** MERN Stack, Next.js 14, TypeScript, and Node.js.
+- 🤖 **AI & Data Focus:** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases (Pinecone).
+- 📚 **Strengthening:** Core Java, Object-Oriented Design (OOP), and Data Structures & Algorithms.
+- 🎯 **Engineering Goal:** Building scalable web applications, writing clean maintainable code, and solving real-world problems.
 
 ---
 
@@ -29,28 +29,32 @@ I build full-stack web applications and work with applied machine learning / LLM
 
 <table>
   <tr>
-    <td width="20%"><strong>Languages</strong></td>
-    <td>TypeScript, JavaScript, Python, Java, C++, SQL</td>
+    <td width="22%"><strong>Core Full-Stack</strong></td>
+    <td><strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>, Next.js 14, TypeScript</td>
   </tr>
   <tr>
-    <td width="20%"><strong>Frontend</strong></td>
-    <td>Next.js 14, React.js, Tailwind CSS, HTML5, CSS3</td>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript (ES6+), TypeScript, Python, Java, C++, SQL</td>
   </tr>
   <tr>
-    <td width="20%"><strong>Backend</strong></td>
-    <td>Node.js, Express.js, REST APIs, JWT Authentication</td>
+    <td><strong>Frontend</strong></td>
+    <td>React.js, Next.js (App Router), Tailwind CSS, HTML5, CSS3</td>
   </tr>
   <tr>
-    <td width="20%"><strong>AI & ML</strong></td>
-    <td>LangChain, RAG Systems, Pinecone, PyTorch, Scikit-Learn, Pandas, NumPy</td>
+    <td><strong>Backend & APIs</strong></td>
+    <td>Node.js, Express.js, RESTful APIs, JWT Authentication, Zod Validation</td>
   </tr>
   <tr>
-    <td width="20%"><strong>Databases & Cloud</strong></td>
-    <td>MongoDB Atlas, MySQL, Cloudinary, Firebase</td>
+    <td><strong>AI & Machine Learning</strong></td>
+    <td>LangChain, RAG Systems, Pinecone Vector DB, PyTorch, Scikit-Learn, Pandas, NumPy</td>
   </tr>
   <tr>
-    <td width="20%"><strong>Dev Tools</strong></td>
-    <td>Git, GitHub, VS Code, Postman, Linux / Bash</td>
+    <td><strong>Databases & Cloud</strong></td>
+    <td>MongoDB (Mongoose / Atlas), MySQL, Cloudinary, Firebase</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>Git, GitHub, Postman, VS Code, Linux / Bash</td>
   </tr>
 </table>
 
@@ -59,45 +63,45 @@ I build full-stack web applications and work with applied machine learning / LLM
 ### 🚀 Selected Projects
 
 #### 1. [Orbitly Studio — Agency Platform](https://github.com/Samir-111/Orbitly-Studio)
-A full-stack product studio platform built with Next.js 14 (App Router) and an Express.js backend.
-- Implemented full-stack TypeScript architecture with dynamic routing and server-side rendering.
-- Built automated client inquiry pipelines integrated with the Resend email API.
-- Integrated Cloudinary for media storage and dynamic markdown case study management.
-- Secured endpoints using JWT authentication, Zod schema validation, and rate limiting.
+A full-stack digital agency and business management platform built with Next.js 14 (App Router) and an Express.js REST API.
+- Implemented full-stack TypeScript architecture with server-side rendering and dynamic routing.
+- Built automated client inquiry delivery and email notifications using the Resend API.
+- Integrated Cloudinary for media storage and dynamic Markdown case study management.
+- Secured backend endpoints using JWT authentication, Zod validation, and rate limiting.
 - **Stack:** `Next.js 14` `TypeScript` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary` `Resend`
 
 ---
 
 #### 2. [FlashRAG-PDF — Document Q&A System](https://github.com/Samir-111/free-pdf-rag-assistant)
-A Retrieval-Augmented Generation (RAG) tool designed to query and extract structured information from unstructured PDF documents.
-- Processed and chunked multi-page PDF documents for high-efficiency semantic search.
-- Used Pinecone vector database for similarity indexing and LangChain for LLM context retrieval.
-- Developed a clean, interactive Streamlit frontend for document uploads and real-time responses.
+A Retrieval-Augmented Generation (RAG) application to extract insights and answer questions from unstructured PDF files.
+- Chunked and embedded multi-page documents for precise semantic vector search.
+- Used Pinecone vector database for indexing and LangChain for context-aware prompt chaining.
+- Built a clean, responsive Streamlit interface for seamless document upload and real-time inference.
 - **Stack:** `Python` `LangChain` `Pinecone Vector DB` `OpenAI API` `Streamlit`
 
 ---
 
 #### 3. [Digital Gatepass & Campus Monitor System](https://github.com/Samir-111/Digital_gatepass_and_latemark_Motior_system)
-A campus workflow management tool to digitize student gatepass approvals and track late entries.
-- Automated multi-tier approval flows between students, hostel wardens, and campus security.
-- Designed real-time dashboards for administrative attendance logs and student verification.
-- Implemented role-based access control (RBAC) and secure JWT session handling.
+A full-stack **MERN** campus management tool to digitize student gatepass approvals and automate late entry records.
+- Automated multi-tier approval workflows between students, hostel wardens, and campus security.
+- Developed real-time administrative dashboards for attendance logging and student verification.
+- Implemented role-based access control (RBAC) and secure JWT authentication.
 - **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
 #### 4. [Medical AI Chatbot](https://github.com/Samir-111/medical-chatbot-ai)
 An intelligent conversational assistant leveraging vector search over medical knowledge bases.
-- Grounded LLM responses in factual clinical documentation using vector embeddings to reduce hallucinations.
-- Built modular prompt chains and conversational memory workflows using LangChain.
+- Grounded LLM responses in medical documentation using vector embeddings to minimize hallucinations.
+- Built modular prompt chains and conversation memory workflows using LangChain.
 - **Stack:** `Python` `LangChain` `Pinecone` `OpenAI API`
 
 ---
 
 #### 5. [Full-Stack Car Rental Application](https://github.com/Samir-111/car-rental-fullstack)
-A complete vehicle reservation platform with live inventory filters and booking lifecycle handling.
-- Developed dynamic vehicle filtering by category, price, and availability.
-- Created complete backend REST APIs with database validation and protected checkout routes.
+A complete **MERN** vehicle reservation platform with live inventory filters and booking workflows.
+- Developed dynamic vehicle filtering by category, price, and real-time availability.
+- Created complete Express REST APIs with database validation and protected user checkout routes.
 - **Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
@@ -105,13 +109,15 @@ A complete vehicle reservation platform with live inventory filters and booking 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir-111&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Samir's GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samir-111&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>Feel free to explore my repositories or reach out for collaborations and software engineering opportunities.</sub>
+  <sub>Feel free to explore my repositories or connect for collaborations and full-stack engineering opportunities.</sub>
 </div>
