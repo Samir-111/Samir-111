@@ -2,123 +2,130 @@
 
 # Hi, I'm Samir Khorgade
 
-**Full-Stack Developer (MERN) | AI & ML Enthusiast**  
+**Full-Stack Developer (MERN) | AI & ML Enthusiast**
 B.Tech in Computer Science & Engineering (AI & ML)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Samir-111)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samirkhorgade.02@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Samir-111&color=0969da&style=flat&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Samir-111)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:samirkhorgade.02@gmail.com)
 
 </div>
 
 ---
 
-### 📌 About Me
+### 👨‍💻 About Me
 
-I am a Full-Stack Web Developer specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and modern **Next.js & TypeScript** ecosystems. Alongside web engineering, I build practical **Generative AI & RAG pipelines** in Python.
+I'm a Computer Science student focused on **full-stack web development** and **AI/ML**. I enjoy building practical applications, working with APIs and databases, and adding AI features where they are actually useful.
 
-- 🛠️ **Primary Stack:** MERN Stack, Next.js 14, TypeScript, and Node.js.
-- 🤖 **AI & Data Focus:** Retrieval-Augmented Generation (RAG), LangChain, Vector Databases (Pinecone).
-- 📚 **Strengthening:** Core Java, Object-Oriented Design (OOP), and Data Structures & Algorithms.
-- 🎯 **Engineering Goal:** Building scalable web applications, writing clean maintainable code, and solving real-world problems.
+* 🔧 **Full-Stack:** MERN Stack, Next.js, TypeScript
+* 🤖 **AI/ML:** Python, RAG, LangChain, Machine Learning
+* 🗄️ **Databases:** MongoDB, MySQL
+* 📚 **Currently Learning:** Java, OOP, Data Structures & Algorithms
+* 🎯 **Goal:** Build useful software and improve my skills through real projects
 
 ---
 
 ### 💻 Technologies & Tools
 
-<table>
-  <tr>
-    <td width="22%"><strong>Core Full-Stack</strong></td>
-    <td><strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>, Next.js 14, TypeScript</td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript (ES6+), TypeScript, Python, Java, C++, SQL</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React.js, Next.js (App Router), Tailwind CSS, HTML5, CSS3</td>
-  </tr>
-  <tr>
-    <td><strong>Backend & APIs</strong></td>
-    <td>Node.js, Express.js, RESTful APIs, JWT Authentication, Zod Validation</td>
-  </tr>
-  <tr>
-    <td><strong>AI & Machine Learning</strong></td>
-    <td>LangChain, RAG Systems, Pinecone Vector DB, PyTorch, Scikit-Learn, Pandas, NumPy</td>
-  </tr>
-  <tr>
-    <td><strong>Databases & Cloud</strong></td>
-    <td>MongoDB (Mongoose / Atlas), MySQL, Cloudinary, Firebase</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>Git, GitHub, Postman, VS Code, Linux / Bash</td>
-  </tr>
-</table>
+| Area                 | Technologies                                                 |
+| -------------------- | ------------------------------------------------------------ |
+| **Languages**        | JavaScript, TypeScript, Python, Java, C, SQL               |
+| **Frontend**         | React.js, Next.js, HTML5, CSS3, Tailwind CSS                 |
+| **Backend**          | Node.js, Express.js, REST APIs, JWT, Zod                     |
+| **AI & ML**          | Python, LangChain, RAG, PyTorch, Scikit-learn, Pandas, NumPy |
+| **Databases**        | Mongoose, MongoDB Atlas, MySQL                      |
+| **Cloud & Services** | Cloudinary, Firebase                                         |
+| **Tools**            | Git, GitHub, Postman, VS Code                   |
 
 ---
 
 ### 🚀 Selected Projects
 
 #### 1. [Orbitly Studio — Agency Platform](https://github.com/Samir-111/Orbitly-Studio)
-A full-stack digital agency and business management platform built with Next.js 14 (App Router) and an Express.js REST API.
-- Implemented full-stack TypeScript architecture with server-side rendering and dynamic routing.
-- Built automated client inquiry delivery and email notifications using the Resend API.
-- Integrated Cloudinary for media storage and dynamic Markdown case study management.
-- Secured backend endpoints using JWT authentication, Zod validation, and rate limiting.
-- **Stack:** `Next.js 14` `TypeScript` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary` `Resend`
+
+A full-stack platform for managing a digital agency's services, clients, inquiries, and case studies.
+
+* Built the frontend with Next.js and TypeScript.
+* Developed REST APIs using Express.js and connected them with MongoDB.
+* Added client inquiry handling and email notifications using Resend.
+* Used Cloudinary for media storage and Markdown for case studies.
+* Added JWT authentication, Zod validation, and rate limiting.
+
+**Stack:** `Next.js` `TypeScript` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary` `Resend`
 
 ---
 
 #### 2. [FlashRAG-PDF — Document Q&A System](https://github.com/Samir-111/free-pdf-rag-assistant)
-A Retrieval-Augmented Generation (RAG) application to extract insights and answer questions from unstructured PDF files.
-- Chunked and embedded multi-page documents for precise semantic vector search.
-- Used Pinecone vector database for indexing and LangChain for context-aware prompt chaining.
-- Built a clean, responsive Streamlit interface for seamless document upload and real-time inference.
-- **Stack:** `Python` `LangChain` `Pinecone Vector DB` `OpenAI API` `Streamlit`
+
+A RAG-based application that allows users to upload PDF documents and ask questions about their content.
+
+* Extracted and split PDF content into smaller chunks.
+* Generated embeddings and stored them in Pinecone for similarity search.
+* Used LangChain to retrieve relevant context before generating answers.
+* Built the interface using Streamlit.
+
+**Stack:** `Python` `LangChain` `Pinecone` `OpenAI API` `Streamlit`
 
 ---
 
-#### 3. [Digital Gatepass & Campus Monitor System](https://github.com/Samir-111/Digital_gatepass_and_latemark_Motior_system)
-A full-stack **MERN** campus management tool to digitize student gatepass approvals and automate late entry records.
-- Automated multi-tier approval workflows between students, hostel wardens, and campus security.
-- Developed real-time administrative dashboards for attendance logging and student verification.
-- Implemented role-based access control (RBAC) and secure JWT authentication.
-- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+#### 3. [Digital Gatepass & Campus Monitor](https://github.com/Samir-111/Digital_gatepass_and_latemark_Motior_system)
+
+A MERN-based campus management system for handling student gatepass requests and late-entry records.
+
+* Built a student gatepass request and approval workflow.
+* Added separate access for students, wardens, and security staff.
+* Created dashboards for managing gatepass and late-entry records.
+* Implemented JWT authentication and role-based access control.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
-#### 4. [Medical AI Chatbot](https://github.com/Samir-111/medical-chatbot-ai)
-An intelligent conversational assistant leveraging vector search over medical knowledge bases.
-- Grounded LLM responses in medical documentation using vector embeddings to minimize hallucinations.
-- Built modular prompt chains and conversation memory workflows using LangChain.
-- **Stack:** `Python` `LangChain` `Pinecone` `OpenAI API`
+#### 4. [Full-Stack Car Rental Application](https://github.com/Samir-111/car-rental-fullstack)
+
+A MERN-based vehicle rental application with vehicle search, filtering, and booking functionality.
+
+* Added filtering based on vehicle category, price, and availability.
+* Built REST APIs using Express.js.
+* Connected the application to MongoDB for vehicle and booking data.
+* Added protected routes for user-related operations.
+
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-#### 5. [Full-Stack Car Rental Application](https://github.com/Samir-111/car-rental-fullstack)
-A complete **MERN** vehicle reservation platform with live inventory filters and booking workflows.
-- Developed dynamic vehicle filtering by category, price, and real-time availability.
-- Created complete Express REST APIs with database validation and protected user checkout routes.
-- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
+#### 5. [Smart Study Monitor](https://github.com/Samir-111/smart-study-monitor)
+
+A computer vision project focused on monitoring study sessions using camera-based detection.
+
+* Used computer vision techniques to track user activity.
+* Worked with image processing and real-time camera input.
+* Designed the project around practical study-session monitoring.
+
+**Stack:** `Python` `OpenCV` `Computer Vision`
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Samir's GitHub Streak" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samir-111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+---
 
+### 📫 Connect With Me
+
+I'm always interested in learning, building projects, and connecting with other developers.
+
+**LinkedIn:** [linkedin.com/in/samir-khorgade-2a309328](https://www.linkedin.com/in/samir-khorgade-2a309328)
+
+**GitHub:** [github.com/Samir-111](https://github.com/Samir-111)
+
+**Email:** [samirkhorgade.02@gmail.com](mailto:samirkhorgade.02@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Feel free to explore my repositories or connect for collaborations and full-stack engineering opportunities.</sub>
+  <sub>Thanks for visiting my profile!</sub>
 </div>
