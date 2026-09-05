@@ -1,224 +1,117 @@
 <div align="center">
 
-# 👋 Hi, I'm Samir Khorgade
+# Hi, I'm Samir Khorgade
 
-### 🚀 Full-Stack Developer | AI & ML Enthusiast | CSE (AI & ML)
+**Full-Stack Developer & AI/ML Engineer**  
+B.Tech in Computer Science & Engineering (AI & ML)
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;AI+%26+ML+Enthusiast;Building+AI-Powered+Applications;Learning+Java+%26+Backend+Development" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir-khorgade-2a309328b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:samirkhorgade.02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Samir-111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Samir-111&color=60A5FA&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p>
-  <i>Building practical full-stack applications and exploring AI-powered solutions.</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-khorgade-2a309328b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Samir-111)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samirkhorgade.02@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Samir-111&color=0969da&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 📌 About Me
 
-I'm a **B.Tech Computer Science & Engineering (AI & ML) student** passionate about building full-stack web applications and AI-powered solutions.
+I build full-stack web applications and work with applied machine learning / LLM systems. My core focus is developing reliable web software using **TypeScript, Next.js, and Node.js**, alongside building **RAG pipelines and data-driven tools in Python**.
 
-I primarily work with the **MERN stack and Python**, while exploring **Generative AI, RAG systems, and backend development**.
-
-I enjoy turning ideas into practical projects and continuously improving my **problem-solving, DSA, and software development skills**.
-
----
-
-## 🚀 What I'm Working On
-
-* 🔨 Building full-stack applications using the **MERN stack**
-* 🤖 Exploring **Generative AI & RAG-based applications**
-* ☕ Strengthening **Java, OOP, JDBC & backend development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌱 Learning to build **scalable and production-ready applications**
+- 🔭 **Current Focus:** Building full-stack web applications with modern backend architectures.
+- 🛠️ **Tech Core:** Next.js, React, Node.js, Express, MongoDB, Python, LangChain.
+- 📚 **Strengthening:** Core Java, Object-Oriented Design, and Data Structures & Algorithms.
+- 🎯 **Goal:** Writing maintainable code, understanding systems from the ground up, and contributing to meaningful open-source software.
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Technologies & Tools
 
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-### 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-### 🤖 AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=chainlink\&logoColor=white)
-
-
-### 🗄️ Databases & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square\&logo=googlecolab\&logoColor=black)
+<table>
+  <tr>
+    <td width="20%"><strong>Languages</strong></td>
+    <td>TypeScript, JavaScript, Python, Java, C++, SQL</td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Frontend</strong></td>
+    <td>Next.js 14, React.js, Tailwind CSS, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Backend</strong></td>
+    <td>Node.js, Express.js, REST APIs, JWT Authentication</td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>AI & ML</strong></td>
+    <td>LangChain, RAG Systems, Pinecone, PyTorch, Scikit-Learn, Pandas, NumPy</td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Databases & Cloud</strong></td>
+    <td>MongoDB Atlas, MySQL, Cloudinary, Firebase</td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>Dev Tools</strong></td>
+    <td>Git, GitHub, VS Code, Postman, Linux / Bash</td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Selected Projects
 
-### 🎫 Digital Gatepass & Late-Mark Monitor System
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-A campus management system designed to digitize student gatepass requests and track late entries.
-
-**Key Features**
-
-* 🎟️ Digital gatepass request system
-* 👨‍🎓 Student verification
-* ⏱️ Late-entry monitoring
-* 📊 Admin dashboard
-* 🔐 Authentication & authorization
-
-🔗 **[View Project](https://github.com/Samir-111/Digital_gatepass_and_latemark_Motior_system)**
+#### 1. [Orbitly Studio — Agency Platform](https://github.com/Samir-111/Orbitly-Studio)
+A full-stack product studio platform built with Next.js 14 (App Router) and an Express.js backend.
+- Implemented full-stack TypeScript architecture with dynamic routing and server-side rendering.
+- Built automated client inquiry pipelines integrated with the Resend email API.
+- Integrated Cloudinary for media storage and dynamic markdown case study management.
+- Secured endpoints using JWT authentication, Zod schema validation, and rate limiting.
+- **Stack:** `Next.js 14` `TypeScript` `Express.js` `MongoDB` `Tailwind CSS` `Cloudinary` `Resend`
 
 ---
 
-### 🤖 FlashRAG-PDF
-
-**Tech:** `Python` `LangChain` `RAG` `Pinecone` `Streamlit`
-
-A context-aware document Q&A application that uses **Retrieval-Augmented Generation** to answer questions from uploaded PDF documents.
-
-**Key Features**
-
-* 📄 PDF document processing
-* 🔎 Semantic document retrieval
-* 🧠 RAG-based question answering
-* 🗃️ Vector database integration
-* 💬 Interactive Streamlit interface
-
-🔗 **[View Project](https://github.com/Samir-111/free-pdf-rag-assistant)**
+#### 2. [FlashRAG-PDF — Document Q&A System](https://github.com/Samir-111/free-pdf-rag-assistant)
+A Retrieval-Augmented Generation (RAG) tool designed to query and extract structured information from unstructured PDF documents.
+- Processed and chunked multi-page PDF documents for high-efficiency semantic search.
+- Used Pinecone vector database for similarity indexing and LangChain for LLM context retrieval.
+- Developed a clean, interactive Streamlit frontend for document uploads and real-time responses.
+- **Stack:** `Python` `LangChain` `Pinecone Vector DB` `OpenAI API` `Streamlit`
 
 ---
 
-### 🏥 Medical AI Chatbot
-
-**Tech:** `Python` `OpenAI API` `Pinecone` `LangChain`
-
-An AI-powered chatbot for exploring biomedical and healthcare-related questions using LLMs, LangChain, and vector search.
-
-**Key Features**
-
-* 🤖 LLM-powered conversations
-* 🔎 Vector-based information retrieval
-* 🧠 LangChain integration
-* 🗃️ Pinecone vector database
-
-🔗 **[View Project](https://github.com/Samir-111/medical-chatbot-ai)**
+#### 3. [Digital Gatepass & Campus Monitor System](https://github.com/Samir-111/Digital_gatepass_and_latemark_Motior_system)
+A campus workflow management tool to digitize student gatepass approvals and track late entries.
+- Automated multi-tier approval flows between students, hostel wardens, and campus security.
+- Designed real-time dashboards for administrative attendance logs and student verification.
+- Implemented role-based access control (RBAC) and secure JWT session handling.
+- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
-### 🚗 Car Rental MERN Application
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB`
-
-A full-stack car rental platform for browsing vehicles, managing bookings, and handling user authentication.
-
-**Key Features**
-
-* 🚘 Vehicle browsing
-* 📅 Booking management
-* 👤 User authentication
-* 🛠️ Fleet management
-* 🔐 Secure backend APIs
-
-🔗 **[View Project](https://github.com/Samir-111/car-rental-fullstack)**
+#### 4. [Medical AI Chatbot](https://github.com/Samir-111/medical-chatbot-ai)
+An intelligent conversational assistant leveraging vector search over medical knowledge bases.
+- Grounded LLM responses in factual clinical documentation using vector embeddings to reduce hallucinations.
+- Built modular prompt chains and conversational memory workflows using LangChain.
+- **Stack:** `Python` `LangChain` `Pinecone` `OpenAI API`
 
 ---
 
-## 📚 Currently Learning
-
-* ☕ **Java & Object-Oriented Programming**
-* 🌱 **Spring Boot & REST APIs**
-* 🧠 **Data Structures & Algorithms**
-* 🤖 **Generative AI & RAG**
-* 🏗️ **Backend & System Design Fundamentals**
+#### 5. [Full-Stack Car Rental Application](https://github.com/Samir-111/car-rental-fullstack)
+A complete vehicle reservation platform with live inventory filters and booking lifecycle handling.
+- Developed dynamic vehicle filtering by category, price, and availability.
+- Created complete backend REST APIs with database validation and protected checkout routes.
+- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-## 🎓 Education
-
-**B.Tech — Computer Science & Engineering (AI & ML)**
-
-Currently pursuing my degree with a focus on **software development, artificial intelligence, machine learning, and problem solving**.
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samir-111&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Samir's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=tokyonight&hide_border=true" alt="Samir's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samir-111&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samir-111&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir-khorgade-2a309328b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samirkhorgade.02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Samir-111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
+  <sub>Feel free to explore my repositories or reach out for collaborations and software engineering opportunities.</sub>
 </div>
